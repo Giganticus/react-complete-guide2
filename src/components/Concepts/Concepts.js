@@ -1,6 +1,6 @@
 ﻿import "./Concept.css";
 import Card from "../UI/Card";
-import Header from "./Header";
+import Header from "../Header/Header";
 import Concept from "./Concept";
 
 const Concepts = ({concepts}) => {
